@@ -30,7 +30,7 @@ Graphs generated using Python:
 See the `graphs/` folder for side-by-side comparisons.
 
 ## 📜 Sample Graph
-![GPU Temp vs FPS](graphs/heaven_fps_temp.png)
+![GPU Temp vs FPS](graphs/minecraft_rtx.png)
 
 ## ⚙️ Automation
 
