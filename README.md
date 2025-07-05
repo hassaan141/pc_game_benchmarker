@@ -33,8 +33,9 @@ See the `graphs/` folder for side-by-side comparisons.
 ![GPU Temp vs FPS](graphs/heaven_fps_temp.png)
 
 ## ⚙️ Automation
-- `scripts/automate_windows.py`: Automates Unigine Heaven with pyautogui
+
 
 ## 🔮 Future Work
 - Add DLSS comparison for supported games
 - Compare to Linux runs
+- - `scripts/automate_windows.py`: Automates Unigine Heaven with pyautogui
